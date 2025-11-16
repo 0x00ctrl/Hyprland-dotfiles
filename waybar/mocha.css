@@ -1,0 +1,17 @@
+@define-color background #1A1B26; /* Deep dark background for the modules and overall Waybar */
+@define-color foreground #C0CAF5; /* General text color, a muted light blue/white */
+
+/* General colors used for modules' text and icons (similar to @color7 in your CSS) */
+@define-color color7 #b6e3c1; /* A slightly desaturated light purple/blue for most icons and text */
+
+/* Hover/active color (similar to @color9 in your CSS) */
+@define-color color9 #7fb58c; /* A more vibrant blue for hover/active states, like workspace buttons */
+
+/* Specific colors for critical battery, warning battery, charging */
+@define-color battery_critical #F7768E; /* A soft red for critical battery */
+@define-color battery_warning #E0AF68; /* An orange/yellow for warning battery */
+@define-color battery_charging #73DACA; /* A teal/green for charging battery */
+
+/* You might need additional colors if other specific elements in the image
+   have distinct hues, but these are the primary ones derived from the CSS
+   you provided and the visual cues in the image. */
