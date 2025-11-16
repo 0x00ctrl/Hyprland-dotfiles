@@ -7,3 +7,5 @@ This repository contains my custom Hyprland config files, feel free to use and e
 
 I am using waybar for my status bar and rofi as my application launcher and powermenu. 
 My terminal is alacritty and I am using fish shell with starship for the terminal prompt.
+
+and I am on arch btw ;p
