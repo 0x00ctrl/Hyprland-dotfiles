@@ -1,0 +1,46 @@
+# - Example: uncomment and adjust the path if you have these files.
+
+# - Base colors and fonts can be imported from separate files for b>
+general.import = [
+    "/home/abrar/.config/alacritty/themes/alacritty-theme/themes/autumn.toml"
+]
+# Window configuration
+
+[window]
+
+dimensions = { columns = 100, lines = 30 }
+
+padding = { x = 10, y = 10 }
+
+dynamic_padding = true
+
+
+# Opacity and Blur
+
+# The 'opacity' value controls the overall transparency.
+
+# The 'blur' setting enables the experimental blur effect.
+
+# For blur to work, you generally need a compositor that supports it (e.g., Picom with Kawase blur).
+
+opacity = 0.6
+
+blur = true
+
+
+# Font configuration
+
+[font]
+
+normal = { family = "CaskaydiaCove Nerd Font", style = "Regular" }
+
+bold = { family = "CaskaydiaCove Nerd Font", style = "Bold" }
+
+italic = { family = "CaskaydiaCove Nerd Font", style = "Italic" }
+
+bold_italic = { family = "CaskaydiaCove Nerd Font", style = "Bold Italic" }
+
+size = 13.0
+
+
+# Colors (Nord theme example)
