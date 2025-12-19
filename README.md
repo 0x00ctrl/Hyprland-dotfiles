@@ -1,6 +1,8 @@
 ## My Arch Hyperland Rice | Rain Forest Theme
 ### This repository contains my custom Hyprland config files, feel free to use and edit them to your liking.
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=0x00ctrl&repo=Hyprland-dotfiles&countColorcountColor&countColor=%237B1E7B"/>
+
 ![License](https://img.shields.io/badge/license-GPL-green)
 
 
