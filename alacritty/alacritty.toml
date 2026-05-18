@@ -2,7 +2,7 @@
 
 # - Base colors and fonts can be imported from separate files for b>
 general.import = [
-    "/home/abrar/.config/alacritty/themes/alacritty-theme/themes/autumn.toml"
+    "/home/abrar/.config/alacritty/themes/autumn.toml"
 ]
 # Window configuration
 
@@ -23,7 +23,7 @@ dynamic_padding = true
 
 # For blur to work, you generally need a compositor that supports it (e.g., Picom with Kawase blur).
 
-opacity = 0.6
+opacity = 0.4
 
 blur = true
 
@@ -40,7 +40,8 @@ italic = { family = "CaskaydiaCove Nerd Font", style = "Italic" }
 
 bold_italic = { family = "CaskaydiaCove Nerd Font", style = "Bold Italic" }
 
-size = 13.0
+size = 14.0
 
+[cursor]
+style = "Beam"
 
-# Colors (Nord theme example)
