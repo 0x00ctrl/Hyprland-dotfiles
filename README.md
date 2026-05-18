@@ -12,7 +12,7 @@
 This is the lockscreen, I tried to make it look like the screen on a Mac 🍎
 
 I am using **waybar** for my status bar and **rofi** as my application launcher and powermenu. 
-My terminal is **alacritty** and I am using **fish** shell with **starship** for the terminal prompt.
+My terminal is **alacritty** and I am using **fish** shell.
 
 The **kittywav.sh** script just plays a soundeffect _(waterdrop.wav)_ file whenever I open a terminal. Adjust the correct path according to your needs in **hyprland.conf**
 
