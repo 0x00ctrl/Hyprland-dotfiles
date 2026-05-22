@@ -17,3 +17,6 @@ My terminal is **alacritty** and I am using **fish** shell.
 The **kittywav.sh** script just plays a soundeffect _(waterdrop.wav)_ file whenever I open a terminal. Adjust the correct path according to your needs in **hyprland.conf**
 
 and I am on arch btw ;p
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=0x00ctrl&repo=Hyprland-dotfiles&countColorcountColor&countColor=%237B1E7B"/>
+
